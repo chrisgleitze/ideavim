@@ -6,7 +6,7 @@
 You have countless examples of Vim configs out there. Though there's not that much of a community around Vim in JetBrains IDEs. When I learn a new tool I like getting inspiration by seeing how others use it. So, this is my little contribution to provide a little IdeaVim inspiration.
 
 ## Setup
-- Install [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
+- Install [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim) in your JetBrains IDE
 - [Create an .ideavimrc file](https://www.jetbrains.com/help/idea/using-product-as-the-vim-editor.html#vimrc) 
 - Copy the content of [my ideavimrc file](.ideavimrc) into yours if you want to try mine
 - Check out [IdeaVim plugins](https://jb.gg/ideavim-plugins) for further configuration
