@@ -3,7 +3,7 @@
 [This](.ideavimrc) is my [IdeaVim](https://lp.jetbrains.com/ideavim/) config. [Vim](https://www.vim.org) is a language for working more efficiently in your IDE. IdeaVim is an integration to use Vim in JetBrains IDEs like IntelliJ, Webstorm etc.
 
 ## Why do I post this here?
-You have countless examples of Vim configs out there. Though there's not that much of a community around vim in JetBrains IDEs. When I learn a new tool I like getting inspiration by seeing how others use it. So, this is my little contribution to provide a little IdeaVim inspiration.
+You have countless examples of Vim configs out there. Though there's not that much of a community around Vim in JetBrains IDEs. When I learn a new tool I like getting inspiration by seeing how others use it. So, this is my little contribution to provide a little IdeaVim inspiration.
 
 ## Setup
 - Install [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
