@@ -1,4 +1,4 @@
-# My ideaVIM config
+# My IdeaVim config
 
 This is my IdeaVim config. Use it as inspiration or however you want.
 
