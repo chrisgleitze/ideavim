@@ -12,3 +12,5 @@ You have countless examples of Vim configs out there. Though there's not that mu
 - Check out [IdeaVim plugins](https://jb.gg/ideavim-plugins) for further configuration
 
 This gives you a solid start to IdeaVim.
+
+Also check out [this](https://github.com/JetBrains/ideavim/discussions/303) discussion on GitHub for more IdeaVim inspiration.
